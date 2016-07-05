@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.multi.enterprise</groupId>
+  <artifactId>me-types</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160705.000704</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160705000704</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>0.0.1-20160705.000704-1</value>
+        <updated>20160705000704</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20160705.000704-1</value>
+        <updated>20160705000704</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
