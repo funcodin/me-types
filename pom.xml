@@ -4,9 +4,9 @@
    <groupId>com.multi.enterprise</groupId>
    <artifactId>me-types</artifactId>
    <version>0.0.1-SNAPSHOT</version>
-   <packaging>war</packaging>
+   <packaging>jar</packaging>
    <name>me-types</name>
-   <description>Commons</description>
+   <description>types</description>
    <properties>
       <project.timestamp>${maven.build.timestamp}</project.timestamp>
       <org.springframework.version>4.1.4.RELEASE</org.springframework.version>
