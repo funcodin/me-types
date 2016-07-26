@@ -1,4 +1,4 @@
-package com.multi.enterprise.commons.jackson;
+package com.multi.enterprise.types.jackson;
 
 public interface ObjectMapperMixinInitializer {
 

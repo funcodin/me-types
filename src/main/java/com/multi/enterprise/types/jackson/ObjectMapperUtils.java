@@ -1,4 +1,4 @@
-package com.multi.enterprise.commons.jackson;
+package com.multi.enterprise.types.jackson;
 
 import org.apache.commons.lang3.ArrayUtils;
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package com.multi.enterprise.commons.utils;
+package com.multi.enterprise.types.utils;
 
 import java.io.StringReader;
 import java.io.StringWriter;

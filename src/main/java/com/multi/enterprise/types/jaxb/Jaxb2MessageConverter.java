@@ -1,4 +1,4 @@
-package com.multi.enterprise.commons.jaxb;
+package com.multi.enterprise.types.jaxb;
 
 import java.io.IOException;
 

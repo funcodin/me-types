@@ -1,4 +1,4 @@
-package com.multi.enterprise.commons.utils;
+package com.multi.enterprise.types.utils;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;

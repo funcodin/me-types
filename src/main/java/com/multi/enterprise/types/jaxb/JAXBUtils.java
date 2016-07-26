@@ -1,4 +1,4 @@
-package com.multi.enterprise.commons.jaxb;
+package com.multi.enterprise.types.jaxb;
 
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -30,9 +30,9 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 
-import com.multi.enterprise.commons.utils.ClassNameUtils;
-import com.multi.enterprise.commons.utils.Jaxb2ContextResolver;
-import com.multi.enterprise.commons.utils.XmlCDataUtils;
+import com.multi.enterprise.types.utils.ClassNameUtils;
+import com.multi.enterprise.types.utils.Jaxb2ContextResolver;
+import com.multi.enterprise.types.utils.XmlCDataUtils;
 
 /**
  * This creates and caches JAXBContext instances. JAXBContext instances are created based on the objects to be marshalled or unmarshalled.
