@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.multi.enterprise.types;
+package com.garderie.types;
 
 import java.util.Date;
 
@@ -12,7 +12,6 @@ import java.util.Date;
 public abstract class AbstractPersistable implements Persistable {
 
 	protected String id;
-	private Long casValue;
 	private Date createdDate;
 	private Date modifiedDate;
 
@@ -29,21 +28,6 @@ public abstract class AbstractPersistable implements Persistable {
 	 */
 	public void setId(String id) {
 		this.id = id;
-	}
-
-	/**
-	 * @return the casValue
-	 */
-	public Long getCasValue() {
-		return casValue;
-	}
-
-	/**
-	 * @param casValue
-	 *            the casValue to set
-	 */
-	public void setCasValue(Long casValue) {
-		this.casValue = casValue;
 	}
 
 	/**

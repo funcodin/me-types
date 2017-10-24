@@ -1,4 +1,4 @@
-package com.multi.enterprise.commons;
+package com.garderie.commons;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

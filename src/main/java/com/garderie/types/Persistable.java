@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.multi.enterprise.types;
+package com.garderie.types;
 
 import java.util.Date;
 
@@ -13,10 +13,6 @@ public interface Persistable {
 	public String getId();
 
 	public void setId(String id);
-
-	public Long getCasValue();
-
-	public void setCasValue(Long casValue);
 
 	public Date getCreatedDate();
 
